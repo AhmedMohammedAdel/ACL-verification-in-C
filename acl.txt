@@ -1,0 +1,10 @@
+owner_uid:100
+owner_permissions:rwx
+group_gid:200
+group_permissions:rw-
+other_permissions:---
+user:101:rwx
+user:102:rw-
+group:201:rw-
+group:202:r--
+mask:rwx
